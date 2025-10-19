@@ -1,0 +1,13 @@
+keywords = {
+    "pneumonia": ["pneumonia", "lung infection"],
+    "diabetes": ["diabetes", "hyperglycemia", "diabetic"],
+    "hypertension": ["hypertension", "high blood pressure"],
+    "tuberculosis": ["tuberculosis", "TB"],
+    "myocardial_infarction": ["myocardial infarction", "heart attack"],
+    "asthma": ["asthma", "wheeze"],
+    "hepatic_steatosis": ["hepatic steatosis", "fatty liver"],
+    "eczema": ["eczema", "dermatitis"],
+    "osteoporosis": ["osteoporosis", "bone loss"],
+    "migraine": ["migraine", "headache"],
+    "COPD": ["COPD", "chronic obstructive pulmonary disease"]
+}
